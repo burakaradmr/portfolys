@@ -1,7 +1,7 @@
 {
-  "name": "portfolys",
-  "compatibility_date": "2025-11-17",
-  "assets": {
-    "directory": "./public" 
-  }
+ "name": "portfolys",
+ "compatibility_date": "2025-11-17",
+ "assets": {
+ "directory": "./public" 
+ }
 }
